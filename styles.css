@@ -7,13 +7,11 @@ body {
 }
 
 hr {
-    background-color: none; 
-    border-style : none; 
-    border-top-style: dotted;
-    /* border-style: dotted, none, none, none; */
+
+    border-style: dotted, none, none, none;
     border-color: #FCF8E8; 
-    border-width: 5px; 
-    width: 30%; 
+    border-width: 1px; 
+    width: 75%; 
 }
 
 h1 {
